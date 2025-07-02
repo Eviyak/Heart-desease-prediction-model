@@ -3,7 +3,7 @@
 ## 📄 Description
 A machine learning project that uses logistic regression to predict the presence of heart disease based on clinical data. Built and trained using a dataset of 303 patient records
 
-## 📁 Dataset
+## 📁 Dataset (https://disk.yandex.ru/d/kO_oa4uEA9CHqw)
 This model was trained on a dataset containing 303 patient records with 14 features each. The target column `target` indicates the presence (`1`) or absence (`0`) of heart disease.
 
 **Features:**
