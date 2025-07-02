@@ -1,7 +1,7 @@
 # 🫀 Heart Disease Prediction Model
 
 ## 📄 Description
-A machine learning project that uses logistic regression to predict the presence of heart disease based on clinical data. Built and trained using a dataset of 303 patient records
+A machine learning project that uses logistic regression to predict the presence of heart disease based on clinical data. Built and trained using a dataset of 303 patient records. According to scikit-learn, this logistic regression classifier achieves 85.25% accuracy on test data
 
 ## 📁 Dataset (https://disk.yandex.ru/d/kO_oa4uEA9CHqw)
 This model was trained on a dataset containing 303 patient records with 14 features each. The target column `target` indicates the presence (`1`) or absence (`0`) of heart disease.
@@ -24,13 +24,8 @@ This model was trained on a dataset containing 303 patient records with 14 featu
 
 ## 🧠 Model
 - Algorithm: **Logistic Regression**
-- Data preprocessing:
-  - Feature scaling
-  - Encoding categorical values
 - Evaluation:
   - Accuracy
-  - Precision, Recall, F1-score
-  - Confusion Matrix
 
 ## 📌 Notes
 - This project is for educational purposes and not intended for real-world medical diagnosis.
